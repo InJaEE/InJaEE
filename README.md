@@ -1,4 +1,14 @@
-### Hi there 👋
+![프로필 카운터](https://komarev.com/ghpvc/?username=InJaEE)
+
+### Interested in
+[![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=white)](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black)](https://ko.reactjs.org/)
+[![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue.js&logoColor=white)](https://angular.io/)
+
+[![Github 통계](https://github-readme-stats.vercel.app/api?username=InJaEE&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=InJaEE&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **InJaEE/InJaEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
